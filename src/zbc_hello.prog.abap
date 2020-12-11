@@ -8,3 +8,5 @@ REPORT zbc_hello.
 WRITE: 'Hello World'.
 
 WRITE:/ 'Hello World 1'.
+
+WRITE:/ 'Hello World 2'.
